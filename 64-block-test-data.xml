@@ -2713,7 +2713,7 @@ Code is poetry</pre>
 	<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/how-to/</guid>
 	<description></description>
 	<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>The purpose of this test data is to test block changes across WordPress versions and Gutenberg versions. It is a compliment to the other <a href="https://github.com/WordPress/theme-test-data" data-type="link" data-id="https://github.com/WordPress/theme-test-data">theme test data files</a>.</p>
+<p>The purpose of this test data is to test block changes across WordPress versions and Gutenberg versions. It is a complement to the other <a href="https://github.com/WordPress/theme-test-data" data-type="link" data-id="https://github.com/WordPress/theme-test-data">theme test data files</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
